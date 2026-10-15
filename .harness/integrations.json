@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "integrations": [
+    "claude"
+  ],
+  "files": {
+    ".claude/agents/adversarial-verifier.md": "f1a3fe872e804feae9d7cc9875174ce7525526b5e8726ff7a5efdf0ac9662b6a",
+    ".claude/agents/fan-out-work.md": "84590a04a8e8be080b55ce60ff082af5947711dc02a97dc5b7deaf6c74d82f80",
+    ".claude/agents/skill-assessor.md": "b44b4fdeab6f3eab9bce3b07c415878be6232b5ed557e37d03176bfb43841eaf",
+    ".claude/settings.json": "f0d96e2ba6f2a44ab071afabf8996ddcb232d2fe4b10e40a8dd1a977899f4c1e",
+    ".claude/skills/add-skill/SKILL.md": "c6adc72dcfdbdc3c40da80051d9ef27e1866a12d87cae3b861ea6e02a1ca6964",
+    ".claude/skills/add-task/SKILL.md": "3fc32485d30de9f2a6fc83cd40dbf28ae85a21e027798c0e424a401676ebb237",
+    ".claude/skills/open-pr/SKILL.md": "0185b270ec22327a197a71c7d3a6d8902685bf0576e04f9d3216ba193ced9a19",
+    ".claude/skills/root-cause/LICENSE": "a37e0e9697144819e1d965176ac4ae5bc3fa02d11e7812036bbcadf6dafe2400",
+    ".claude/skills/root-cause/SKILL.md": "193a8f0088c9e5402111f15acb3261de982f50f38ad0d209df6a171656af5521",
+    ".claude/skills/should-i-adopt/SKILL.md": "c353c5b1ff9e51b286c46e06b8351d5a8949ae54258622fdda86b75a698e1884",
+    ".claude/skills/work/SKILL.md": "e693e2364555e396c137be0f80e71066ba48f3de0534236d12bab49377668471",
+    ".claude/worktree-CONTEXT.md.tmpl": "7fb500d1cdae55973c9bd5923ab1d9a8f6461598da663d9d4bc9f1b9547b8298",
+    "CLAUDE.md": "45dd45f7d83603ab0887fa74036f3eeee2b658265eb361074c8159da79a0d97d"
+  }
+}
